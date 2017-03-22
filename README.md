@@ -1,0 +1,1 @@
+A sample implementation of Exercise 6: Naive Bayes.
